@@ -22,6 +22,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
@@ -44,6 +45,8 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## swagger地址:http://localhost:3006/api/
+## 初始化数据:http://localhost:3006/admin/init?key=1355081829 初始化数据
 
 ## Test
 
